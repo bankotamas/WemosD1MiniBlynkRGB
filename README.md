@@ -18,7 +18,8 @@ Control a ws2812b rgb strip over blynk.
 - Be aware that this RGB strip need a lot Amps.
 (1 meter/ 60 leds with white color of full brightness ~ 3.6 A)
 
-If you have any suggestions or you noticed any bug feel free to contact me.
-
 # Circuit
 ![N|Solid](https://raw.githubusercontent.com/bankotamas/WemosD1MiniBlynkRGB/master/pictures/wemos_d1mini_ws2812b_bb.jpg)
+
+
+*If you have any suggestions or you noticed any bug feel free to contact me.*
