@@ -21,3 +21,4 @@ Control a ws2812b rgb strip over blynk.
 If you have any suggestions or you noticed any bug feel free to contact me.
 
 # Circuit
+[image](https://raw.githubusercontent.com/bankotamas/WemosD1MiniBlynkRGB/master/pictures/wemos_d1mini_ws2812b_bb.jpg)
